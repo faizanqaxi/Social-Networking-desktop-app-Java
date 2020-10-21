@@ -1,0 +1,6 @@
+FirstName,LastName,Email,PhoneNo,Password,Gender,City,DOB,bio,age,profilePicPath,coverPicPath
+Faizan,Qazi,fqazi.bscs18seecs@seecs.edu.pk,03365111088,faizan123,Male,Islamabad,23\09\1998,~DREAMING,20,D:\University Work\2nd semester\OOP Project\Images\defaultProfilePic1.png,D:\University Work\2nd semester\OOP Project\Images\defaulfCoverPic.jpg
+Shariq,Bin Rashid,shariqbr.22@gmail.com,03465113444,shariq123,Male,Islamabad,13/3/2000,Man on Mission,19,D:\University Work\2nd semester\OOP Project\Images\defaultProfilePic1.png,D:\University Work\2nd semester\OOP Project\Images\defaulfCoverPic.jpg
+Danial,Ahmed,dahmad.bscs18seecs@seecs.edu.pk,03365396474,danial123,Male,Islamabad,1/1/2000,,19,D:\University Work\2nd semester\OOP Project\Images\defaultProfilePic1.png,D:\University Work\2nd semester\OOP Project\Images\defaulfCoverPic.jpg
+Fozan,Shahid,fshahid.bscs18seecs@seecs.edu.pk,03365111088,fozan123,Male,Vehari,1/1/1999,,20,D:\University Work\2nd semester\OOP Project\Images\defaultProfilePic1.png,D:\University Work\2nd semester\OOP Project\Images\defaulfCoverPic.jpg
+Example,Account,example@gmail.com,0000,example123,Male,Islamabad,13/9/1998,,20,D:\University Work\2nd semester\OOP Project\Images\defaultProfilePic1.png,D:\University Work\2nd semester\OOP Project\Images\defaulfCoverPic.jpg

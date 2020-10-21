@@ -1,0 +1,7 @@
+Email,Password
+fqazi.bscs18seecs@seecs.edu.pk,faizan123
+shariqbr.22@gmail.com,shariq123
+dahmad.bscs18seecs@seecs.edu.pk,danial123
+fshahid.bscs18seecs@seecs.edu.pk,fozan123
+example@gmail.com,example123
+faizanqazi98@gmail.com,faizan123
