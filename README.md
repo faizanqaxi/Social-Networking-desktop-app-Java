@@ -1,3 +1,7 @@
+* A social networking Desktop App in Java
+* Used file handling as the database
+* Implemented user signup, login, authentication, profiles, GUI using Swing and more
+
 FEATURES IMPLEMENTED:
 * Graphical User Interface using Swing Library
 * File handling based database
